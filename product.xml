@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2024-04-03 13:52">
+<shop>
+<categories>
+	<category id="1">Платья</category>
+	<category id="2">Костюм</category>
+	<category id="3">Ботинки</category>
+</categories>
+<offers>
+
+	<offer id="3130">	
+		<price>1000</price>
+		<currencyId>RUB</currencyId>
+		<categoryId>1</categoryId>
+		<name>Платье 1</name>
+		<description>Черное платье</description>
+		<param name="Артикул">12244</param>
+		<param name="Размер">50</param>	
+		<param name="Цвет ткани">Черный</param>
+		<param name="Количество товара">219</param>	
+	</offer>
+	
+	<offer id="3131">	
+		<price>1100</price>
+		<currencyId>RUB</currencyId>
+		<categoryId>1</categoryId>
+		<name>Платье 2</name>
+		<description>Синее платье</description>
+		<param name="Артикул">13444</param>
+		<param name="Размер">51</param>	
+		<param name="Цвет ткани">Синий</param>
+		<param name="Количество товара">12</param>	
+	</offer>
+	
+	<offer id="3132">	
+		<price>1200</price>
+		<currencyId>RUB</currencyId>
+		<categoryId>1</categoryId>
+		<name>Платье 3</name>
+		<description>Розовое платье</description>
+		<param name="Артикул">13244</param>
+		<param name="Размер">51</param>	
+		<param name="Цвет ткани">Розовый</param>
+		<param name="Количество товара">312</param>	
+	</offer>
+	
+	<offer id="3133">	
+		<price>1300</price>
+		<currencyId>RUB</currencyId>
+		<categoryId>1</categoryId>
+		<name>Платье 4</name>
+		<description>Голубое платье</description>
+		<param name="Артикул">33244</param>
+		<param name="Размер">51</param>	
+		<param name="Цвет ткани">Голубой</param>
+		<param name="Количество товара">45</param>	
+	</offer>
+	
+	<offer id="3134">	
+		<price>1500</price>
+		<currencyId>RUB</currencyId>
+		<categoryId>1</categoryId>
+		<name>Платье 5</name>
+		<description>Оранжевое платье</description>
+		<param name="Артикул">331244</param>
+		<param name="Размер">48</param>	
+		<param name="Цвет ткани">Оранжевый</param>
+		<param name="Количество товара">67</param>	
+	</offer>
+	
+	<offer id="3135">	
+		<price>1800</price>
+		<currencyId>RUB</currencyId>
+		<categoryId>1</categoryId>
+		<name>Платье 6</name>
+		<description>Белое платье</description>
+		<param name="Артикул">441244</param>
+		<param name="Размер">48</param>	
+		<param name="Цвет ткани">Белый</param>
+		<param name="Количество товара">35</param>	
+	</offer>
+	
+	<offer id="3136">	
+		<price>2000</price>
+		<currencyId>RUB</currencyId>
+		<categoryId>1</categoryId>
+		<name>Платье 7</name>
+		<description>Серое платье</description>
+		<param name="Артикул">441244</param>
+		<param name="Размер">48</param>	
+		<param name="Цвет ткани">Серое</param>
+		<param name="Количество товара">3534</param>	
+	</offer>
+	
+	<offer id="3137">	
+		<price>2000</price>
+		<currencyId>RUB</currencyId>
+		<categoryId>1</categoryId>
+		<name>Платье 8</name>
+		<description>Красное платье</description>
+		<param name="Артикул">441244</param>
+		<param name="Размер">48</param>	
+		<param name="Цвет ткани">Серое</param>
+		<param name="Количество товара">3534</param>	
+	</offer>
+	
+	<offer id="3138">	
+		<price>4000</price>
+		<currencyId>RUB</currencyId>
+		<categoryId>2</categoryId>
+		<name>Костюм деда Мороза</name>
+		<description>Костюм для нового года</description>
+		<param name="Артикул">441244</param>
+		<param name="Размер">48</param>	
+		<param name="Цвет ткани">Красный</param>
+		<param name="Количество товара">5</param>	
+	</offer>
+	
+	<offer id="3139">	
+		<price>1000</price>
+		<currencyId>RUB</currencyId>
+		<categoryId>3</categoryId>
+		<name>Ботинки зимние</name>
+		<description>Ботинки на меху</description>
+		<param name="Артикул">441244</param>
+		<param name="Размер">45</param>	
+		<param name="Цвет">Черный</param>
+		<param name="Количество товара">7</param>	
+	</offer>
+
+
+</offers>
+</shop>
+</yml_catalog>
